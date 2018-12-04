@@ -1,2 +1,4 @@
 # hello-world
-Traditional Hello World repository
+GitHub Hello World tutorial
+
+This repository contains traditional Hello World repository example.
